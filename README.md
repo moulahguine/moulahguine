@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I’m Mohamed Oulahguine
+🎯 A passionate Front-End Developer with a focus on building clean, responsive, and user-friendly interfaces.
 
-<!--
-**MohamedOulahguine/MohamedOulahguine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack:
 
-Here are some ideas to get you started:
+Languages: JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Libraries: React, Next.js
+
+Styling: Tailwind CSS, CSS3
+
+Tools: Git, GitHub, VS Code
+
+Other: Local Storage, Responsive Design, GitHub Pages
+
+📌 Pinned Projects:
+
+Sagar: A clean and professional portfolio website, deployed here
+
+local_storage: A simple but educational project demonstrating use of local storage in the browser.
+
+📹 Content Creator
+I also document my front-end journey by recording and sharing my website building process on my YouTube channel.
+
+🌐 Let’s Connect
+
+💼 LinkedIn
+
+
+📷 Instagram
+
+📺 YouTube
+
+🚀 Always open to collaboration, learning opportunities, and new challenges!
