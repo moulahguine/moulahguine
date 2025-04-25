@@ -26,10 +26,10 @@
 ### 📌 Featured Projects
 
 - 🔗 **Sagar** – A clean and professional portfolio website  
-  👉 [View project](#) *[(replace with actual link)](https://moulahguine.github.io/sagar/)*  
+  👉 [View project](#) *(https://moulahguine.github.io/sagar/)*  
 
 - 🗂️ **local_storage** – A simple educational demo of using local storage  
-  👉 [View project](#) *[(replace with actual link)](https://moulahguine.github.io/local_storage/)*  
+  👉 [View project](#) *(https://moulahguine.github.io/local_storage/)*  
 
 ---
 
