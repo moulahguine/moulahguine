@@ -1,6 +1,6 @@
 <img src="Mohamed Oulahguine (1)_pages-to-jpg-0001.jpg" alt="Banner" style="width: 100%;" />
 
-👋 Hi, I’m Mohamed Oulahguine
+# 👋 Hi, I’m Mohamed Oulahguine
 🎯 A passionate Front-End Developer with a focus on building clean, responsive, and user-friendly interfaces.
 
 🔧 Tech Stack:
