@@ -7,6 +7,16 @@
 
 ---
 
+### 📖 About Me
+
+<p align="left">
+  Software Engineering student and Front-End Developer focused on crafting clean, responsive, and user-friendly web experiences. <br><br>
+  Skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>Sass</strong>. <br><br>
+  Passionate about bridging the gap between design and technology to build accessible digital products.
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -19,17 +29,18 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
 - 🔗 **Sagar** – A clean and professional portfolio website  
-  👉 [View project](#) *(https://moulahguine.github.io/sagar/)*  
+  👉 [View project](https://moulahguine.github.io/sagar/)  
 
 - 🗂️ **local_storage** – A simple educational demo of using local storage  
-  👉 [View project](#) *(https://moulahguine.github.io/local_storage/)*  
+  👉 [View project](https://moulahguine.github.io/local_storage/)  
 
 ---
 
