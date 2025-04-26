@@ -41,7 +41,8 @@
 
 - 🗂️ **local_storage** – A simple educational demo of using local storage  
   👉 [View project](https://moulahguine.github.io/local_storage/)  
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="moulahguine" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/moulahguine?trk=profile-badge">Mohamed Oulahguine</a></div>
+              
 ---
 
 ### 🎥 Content Creator
