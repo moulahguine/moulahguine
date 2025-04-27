@@ -2,12 +2,12 @@
   <img src="Mohamed Oulahguine (1)_pages-to-jpg-0001.jpg" alt="Banner" style="width: 100%;" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Mohamed Oulahguine</h1>
-<h3 align="center">🎯 A passionate Front-End Developer focused on building clean, responsive, and user-friendly interfaces.</h3>
+<h1 align="center"> Hi, I’m Mohamed Oulahguine</h1>
+<h3 align="center"> A passionate Front-End Developer focused on building clean, responsive, and user-friendly interfaces.</h3>
 
 ---
 
-### 📖 About Me
+###  About Me
 
 <p align="left">
   Software Engineering student and Front-End Developer focused on crafting clean, responsive, and user-friendly web experiences. <br><br>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -34,25 +34,25 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
-- 🔗 **Sagar** – A clean and professional portfolio website  
+-  **Sagar** – A clean and professional portfolio website  
   👉 [View project](https://moulahguine.github.io/sagar-portfolio/)  
 
-- 🗂️ **local_storage** – A simple educational demo of using local storage  
+-  **local_storage** – A simple educational demo of using local storage  
   👉 [View project](https://moulahguine.github.io/local-storage-project/))  
 
               
 ---
 
-### 🎥 Content Creator
+###  Content Creator
 
 I document my front-end journey and share my website-building process on YouTube.  
 Subscribe to stay updated with my new projects, dev tips, and tutorials!
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
@@ -71,4 +71,4 @@ Subscribe to stay updated with my new projects, dev tips, and tutorials!
 
 ---
 
-🚀 **Always open to collaboration, learning opportunities, and new challenges!**
+ **Always open to collaboration, learning opportunities, and new challenges!**
