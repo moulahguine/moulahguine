@@ -71,4 +71,4 @@ Subscribe to stay updated with my new projects, dev tips, and tutorials!
 
 ---
 
- **Always open to collaboration, learning opportunities, and new challenges!**
+ **Always open to collaboration, learning opportunities, and new challenges**
