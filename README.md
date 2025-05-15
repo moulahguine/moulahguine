@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hi, I’m Mohamed Oulahguine</h1>
-<h3 align="center"> A passionate Front-End Developer focused on building clean, responsive, and user-friendly interfaces.</h3>
+<h3 align="center"> A passionate Front-End Developer focused on building clean, responsive, and user-friendly interfaces</h3>
 
 ---
 
