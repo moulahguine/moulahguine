@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Mohamed Oulahguine</h1>
-<h3 align="center">Front-End Developer on a mission to build smooth, responsive, and clean UIs.</h3>
+<h3 align="center">I care about clean design, smooth interaction, and code that makes sense.</h3>
 
 ---
 
@@ -38,19 +38,15 @@ Right now, I'm focused on leveling up my React and building real projects that h
 
 ### Featured Projects
 
-- **Sagar** – A clean and modern portfolio template  
-  👉 [Live Preview](https://moulahguine.github.io/sagar-portfolio/)
-
-<h3>💼 Sagar – Portfolio Website</h3>
-
-<div align="center">
+<div>
+<h3> Sagar – Portfolio Website</h3>
   <img src="sagar-preview.png" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   <div>
-    <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Repo-black?logo=github&style=for-the-badge" alt="Repo"/>
+    <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank" style="padding:5px 7px;" >
+      repo
     </a>
-    <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Live-Demo-green?logo=vercel&style=for-the-badge" alt="Live Demo"/>
+    <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank" style="padding:5px 7px;">
+      Live Demo
     </a>
   </div>
 </div>
