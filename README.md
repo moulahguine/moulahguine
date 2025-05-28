@@ -7,10 +7,10 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 <img src="newone.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
 
-Hey! I'm a Software Engineering student who loves working on the front end of the web.  
+I'm a Software Engineering student who loves working on the front end of the web.  
 I'm all about turning designs into functional and accessible websites.
 
 I'm comfortable working with:
@@ -18,67 +18,48 @@ I'm comfortable working with:
 - **HTML**, **CSS**, **JavaScript**
 - **TypeScript**, **React**, **Tailwind CSS**, **Sass**
 - Version control with **Git** and **GitHub**
-- Tools like **VS Code** and **CodePen**
+- Tools like **cursor editor** and **CodePen**
 
 Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **Sagar** – A clean and modern portfolio template  
   👉 [Live Preview](https://moulahguine.github.io/sagar-portfolio/)
 
-- **Local Storage Demo** – A small project showing how localStorage works  
-  👉 [Check it out](https://moulahguine.github.io/local-storage-project/)
-
----
-
-### 🤹‍♂️ Real Front-End Life
-
-<p align="center">
-  Some days, JavaScript makes me sweat. Other days, I feel like a coding superhero.
-</p>
+<h3>💼 Sagar – Portfolio Website</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS" width="250px" />
-        <p><strong>Why is it still undefined?! 😩</strong></p>
-      </td>
-      <td align="center">
-        <img src="ChatGPT Image May 19, 2025, 11_14_28 AM.png" alt="Victory!" width="250px" />
-        <p><strong>When I finally fix the bug 🔥</strong></p>
-      </td>
-    </tr>
-  </table>
+  <img src="sagar-preview.png" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+  <div>
+    <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-black?logo=github&style=for-the-badge" alt="Repo"/>
+    </a>
+    <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-Demo-green?logo=vercel&style=for-the-badge" alt="Live Demo"/>
+    </a>
+  </div>
 </div>
 
----
-
-### 📹 Content Creation
-
-I share my front-end dev process and projects on YouTube.  
-If you're learning or just curious about how I build things, check it out!
-
+  
 ---
 
 ### 📬 Let's Connect
