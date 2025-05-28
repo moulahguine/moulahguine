@@ -59,14 +59,14 @@ Right now, I'm focused on leveling up my React and building real projects that h
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
     <h3>AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
-    <a href="https://moulahguine.github.io/AtlasTalk/" target="_blank">
+    <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
       <img src="signupLS.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
         <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
       </a>
-      <a href="https://moulahguine.github.io/AtlasTalk/" target="_blank">
+      <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
         <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
       </a>
     </p>
