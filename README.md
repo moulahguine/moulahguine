@@ -8,6 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
+<img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS" width="250px"  align="left"/>
 
 Hey! I'm a Software Engineering student who loves working on the front end of the web.  
 I'm all about turning designs into functional and accessible websites.
@@ -20,7 +21,6 @@ I'm comfortable working with:
 - Tools like **VS Code** and **CodePen**
 
 Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
-<img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS" width="250px"  align="left"/>
 ---
 
 ### 🧰 Tech Stack
