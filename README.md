@@ -41,7 +41,7 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <div>
 <h3> Sagar – Portfolio Website</h3>
   <img src="1744982912339 (1).jpeg" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
-  <p align="center">
+  <p>
   <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
   </a>
