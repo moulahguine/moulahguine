@@ -41,7 +41,6 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <!-- Sagar Project -->
 <div class="sagar" width="400px">
   <h3>Sagar – Portfolio Website</h3>
-  <p width="100px">A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
   <img src="1744982912339 (1).jpeg" alt="Sagar Project Preview" width="400px" height="250px" />
   <p>
     <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
@@ -56,7 +55,6 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <!-- AtlasTalk Project -->
 <div class="atlasktalk" width="400px" height="250px">
   <h3>AtlasTalk – Real-time Chat App</h3>
-  <p>A full-stack real-time chat application that supports live messaging using WebSocket technology.</p>
   <img src="signupLS.png" alt="AtlasTalk Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   <p>
     <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
