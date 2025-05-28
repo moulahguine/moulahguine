@@ -69,7 +69,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     <h3>🔴 AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
     <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="400px" height="300px" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="400px" height="250px" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
