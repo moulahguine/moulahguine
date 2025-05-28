@@ -105,7 +105,7 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 ### Let's Connect
 
-  <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="100px" style="border-radius: 50%; margin-bottom: 20px;" align="right" />
+  <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="200px" height="300px" style="border-radius: 50%; margin-bottom: 20px;" align="right" />
 <p align="center" style="font-size: 18px;">
   -I'm always open to connect, collaborate, or chat about anything dev related. <br/>
   -Let's build something cool together
