@@ -14,18 +14,6 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 <p>I'm comfortable working with:</p>
 
-<ul>
-  <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
-  <li><strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Sass</strong></li>
-  <li>Version control with <strong>Git</strong> and <strong>GitHub</strong></li>
-  <li>Tools like <strong>cursor editor</strong> and <strong>CodePen</strong></li>
-</ul>
-
-<p>Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.</p>
-
-</div>
-
-
 ### Tech Stack
 
 <p align="center">
@@ -39,6 +27,19 @@ I'm all about turning designs into functional and accessible websites.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+<ul>
+  <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
+  <li><strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Sass</strong></li>
+  <li>Version control with <strong>Git</strong> and <strong>GitHub</strong></li>
+  <li>Tools like <strong>cursor editor</strong> and <strong>CodePen</strong></li>
+</ul>
+
+<p>Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.</p>
+
+</div>
+
+
 
 ---
 
