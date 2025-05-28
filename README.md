@@ -111,19 +111,43 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 
 <table>
-  <th>
+  <tr>
     <td>
-      <a href="https://github.com/moulahguine/sagar-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+      <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+    <h3>✅ Sagar – Portfolio Website</h3>
+    <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
+     <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+    </a>
+    <p>
+      <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
       </a>
+      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+    </p>
+  </div>
     </td>
     <td>
-      <a href="https://github.com/moulahguine/AtlasTalk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+    <h3>🔴 AtlasTalk – Real time Chat App</h3>
+    <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
+    <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
+      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+    </a>
+    <p>
+      <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
       </a>
+      <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
+        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+    </p>
+  </div>
     </td>
-  </th>
-  <th>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/moulahguine/todoApp.1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
@@ -134,7 +158,7 @@ I'm all about turning designs into functional and accessible websites.</p>
         <img src="https://github-readme-stats.vercel.app/api?username=moulahguine&show_icons=true&theme=radical" />
       </a>
     </td>
-  </th>
+  </tr>
 </table>
 
 <p align="left">
