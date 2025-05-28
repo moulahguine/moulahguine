@@ -120,8 +120,8 @@ I'm all about turning designs into functional and accessible websites.</p>
   <a href="https://www.instagram.com/moulahguine/" target="_blank" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" height="40px"/>
 </a>
-</div>
-
 <div align="right">
   <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="100px" style="border-radius: 50%; margin-bottom: 20px;" />
 </div>
+</div>
+
