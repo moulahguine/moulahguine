@@ -49,7 +49,7 @@ I'm all about turning designs into functional and accessible websites.</p>
 
   <!-- Sagar Project -->
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>Sagar – Portfolio Website</h3>
+    <h3>✅ Sagar – Portfolio Website</h3>
     <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
       <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
@@ -68,7 +68,7 @@ I'm all about turning designs into functional and accessible websites.</p>
 
   <!-- AtlasTalk Project -->
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>AtlasTalk – Real time Chat App</h3>
+    <h3>🔴 AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
     <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
       <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
@@ -89,7 +89,7 @@ I'm all about turning designs into functional and accessible websites.</p>
   
   <!-- To-Do App Project -->
 <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-  <h3>To-Do App – Task Manager</h3>
+  <h3>🔴 To-Do App – Task Manager</h3>
   <p>A responsive, vanilla JavaScript ToDo app for managing tasks with localStorage support — focused on clean UI, real-time interaction, and code modularity.</p>
   <a href="https://moulahguine.github.io/todoApp.1/" target="_blank">
     <img src="todo-preview.png" alt="To-Do App Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
