@@ -111,11 +111,11 @@ I'm all about turning designs into functional and accessible websites.</p>
 ---
 
 
-[![Sagar Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/sagar-portfolio)
+[![Sagar Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3)](https://github.com/moulahguine/sagar-portfolio)
 
-[![AtlasTalk](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/AtlasTalk)
+[![AtlasTalk](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3)](https://github.com/moulahguine/AtlasTalk)
 
-[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/todoApp.1)
+[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3)](https://github.com/moulahguine/todoApp.1)
 
 <p align="left">
   <a href="https://github.com/moulahguine?tab=repositories" target="_blank">
@@ -130,19 +130,19 @@ I'm all about turning designs into functional and accessible websites.</p>
   <tr>
     <td>
       <a href="https://github.com/moulahguine/sagar-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
       </a>
     </td>
     <td>
       <a href="https://github.com/moulahguine/AtlasTalk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/moulahguine/todoApp.1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
       </a>
     </td>
     <td>
