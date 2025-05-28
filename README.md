@@ -109,28 +109,20 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/moulahguine/sagar-portfolio">
-        <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="150px" style="border-radius: 8px; margin-bottom: 10px;" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/moulahguine/AtlasTalk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/moulahguine/todoApp.1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+[![Sagar Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/sagar-portfolio)
+
+[![AtlasTalk](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=AtlasTalk&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/AtlasTalk)
+
+[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=todoApp.1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moulahguine/todoApp.1)
+
+<p align="left">
+  <a href="https://github.com/moulahguine?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+</p>
+
 
 
 ---
