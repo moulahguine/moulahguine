@@ -8,9 +8,10 @@
  I'm all about turning designs into functional and accessible websites.
  
  I'm comfortable working with:
+ 
  ---
-
 <img src="ChatGPT Image May 18, 2025, 06_58_53 PM.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
+
 ---
 - **HTML**, **CSS**, **JavaScript**
 - **TypeScript**, **React**, **Tailwind CSS**, **Sass**
