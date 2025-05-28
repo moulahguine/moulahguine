@@ -5,17 +5,24 @@
 
 ### About Me
 <img src="ChatGPT Image May 18, 2025, 06_58_53 PM.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
- 
- I'm a Software Engineering student who loves working on the front end of the web.  
- I'm all about turning designs into functional and accessible websites.
- 
- I'm comfortable working with:
-- **HTML**, **CSS**, **JavaScript**
-- **TypeScript**, **React**, **Tailwind CSS**, **Sass**
-- Version control with **Git** and **GitHub**
-- Tools like **cursor editor** and **CodePen**
+<div style="max-width: 600px; margin: auto; text-align: left;">
 
-Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
+<p>I'm a Software Engineering student who loves working on the front end of the web.<br>
+I'm all about turning designs into functional and accessible websites.</p>
+
+<p>I'm comfortable working with:</p>
+
+<ul>
+  <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
+  <li><strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Sass</strong></li>
+  <li>Version control with <strong>Git</strong> and <strong>GitHub</strong></li>
+  <li>Tools like <strong>cursor editor</strong> and <strong>CodePen</strong></li>
+</ul>
+
+<p>Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.</p>
+
+</div>
+
 
 ### Tech Stack
 
