@@ -18,8 +18,6 @@ I'm comfortable working with:
 
 Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
 
----
-
 ### Tech Stack
 
 <p align="center">
@@ -57,7 +55,7 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <div class="atlasktalk">
   <h3>AtlasTalk – Real-time Chat App</h3>
   <p>A full-stack real-time chat application that supports live messaging using WebSocket technology.</p>
-  <img src="signupLS.png" alt="AtlasTalk Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+  <img src="signupLS.png" alt="AtlasTalk Project Preview" width="400px" height="250px" style="border-radius: 8px; margin-bottom: 10px;" />
   <p>
     <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
       <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
