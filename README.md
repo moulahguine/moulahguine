@@ -33,9 +33,10 @@ Right now, I'm focused on leveling up my React and building real projects that h
 </p>
 
 ---
+<img src="newone.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
 
 ### Featured Projects
-<div>
+<div align="center">
 <!-- Sagar Project -->
 <div class="sagar">
   <h3>Sagar – Portfolio Website</h3>
