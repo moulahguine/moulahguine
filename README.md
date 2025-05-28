@@ -7,7 +7,7 @@
 
 <img src="ChatGPT Image May 18, 2025, 06_58_53 PM.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
 
-<div width: 600px; style="margin: auto; text-align: left;">
+<div width="400px" style="margin: auto; text-align: left;">
 
 <p>I'm a Software Engineering student who loves working on the front end of the web.<br>
 I'm all about turning designs into functional and accessible websites.</p>
