@@ -2,22 +2,24 @@
   <img src="Mohamed Oulahguine (1)_pages-to-jpg-0001.jpg" alt="Banner" style="width: 100%;" />
 </p>
 
-<h1 align="center"> Hi, I’m Mohamed Oulahguine</h1>
-<h3 align="center"> A passionate Front-End Developer focused on building clean, responsive, and user-friendly interfaces.</h3>
+<h1 align="center">Hey there! I'm Mohamed Oulahguine 👋</h1>
+<h3 align="center">Front-End Developer who loves turning designs into functional and responsive web apps.</h3>
 
 ---
 
-###  About Me
+### 🙋‍♂️ About Me
 
-<p align="left">
-  Software Engineering student and Front-End Developer focused on crafting clean, responsive, and user-friendly web experiences. <br><br>
-  Skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>Sass</strong>. <br><br>
-  Passionate about bridging the gap between design and technology to build accessible digital products.
-</p>
+Hi! I'm Mohamed, a software engineering student who enjoys building web interfaces that look good and work even better.  
+I've been diving deep into front-end development and always learning something new along the way.
+
+- 🔍 I care about **clean code**, **user experience**, and **responsive design**
+- 🛠️ My go-to tools include **HTML**, **CSS**, **JavaScript**, **React**, and **Tailwind**
+- 🎨 I like bringing life to UIs and making things feel smooth and intuitive
+- 🌱 Currently leveling up my TypeScript and digging deeper into accessibility
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -34,25 +36,24 @@
 
 ---
 
-###  Featured Projects
+### 🌟 Projects I'm Proud Of
 
--  **Sagar** – A clean and professional portfolio website  
-  👉 [View project](https://moulahguine.github.io/sagar-portfolio/)  
+- **Sagar** – A sleek portfolio website built to be fast and responsive  
+  👉 [View project](https://moulahguine.github.io/sagar-portfolio/)
 
--  **local_storage** – A simple educational demo of using local storage  
+- **Local Storage Demo** – A mini project showing how to work with local storage in the browser  
   👉 [View project](https://moulahguine.github.io/local-storage-project/)
 
-              
 ---
 
-###  Content Creator
+### 🎬 Content Creator
 
-I document my front-end journey and share my website-building process on YouTube.  
-Subscribe to stay updated with my new projects, dev tips, and tutorials!
+I share what I learn, how I build things, and tips for fellow front-end learners on YouTube.  
+If you’re into web development, feel free to check it out and subscribe!
 
 ---
 
-###  Let's Connect
+### 📬 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
@@ -71,4 +72,4 @@ Subscribe to stay updated with my new projects, dev tips, and tutorials!
 
 ---
 
- **Always open to collaboration, learning opportunities, and new challenges**
+✨ Always open to collaborations, feedback, or just a good tech chat!
