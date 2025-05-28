@@ -9,11 +9,6 @@
 
 <div width="400px" style="margin: auto; text-align: left;">
 
-<p>I'm a Software Engineering student who loves working on the front end of the web.<br>
-I'm all about turning designs into functional and accessible websites.</p>
-
-<p>I'm comfortable working with:</p>
-
 ### Tech Stack
 
 <p align="center">
@@ -27,6 +22,12 @@ I'm all about turning designs into functional and accessible websites.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+<p>I'm a Software Engineering student who loves working on the front end of the web.<br>
+I'm all about turning designs into functional and accessible websites.</p>
+
+<p>I'm comfortable working with:</p>
+
 
 <ul>
   <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
