@@ -47,7 +47,6 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 <table>
   <tr>
-    <td>
       <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
     <h3>✅ Sagar – Portfolio Website</h3>
     <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
@@ -63,8 +62,6 @@ I'm all about turning designs into functional and accessible websites.</p>
       </a>
     </p>
   </div>
-    </td>
-    <td>
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
     <h3>🔴 AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
@@ -80,10 +77,8 @@ I'm all about turning designs into functional and accessible websites.</p>
       </a>
     </p>
   </div>
-    </td>
   </tr>
   <tr>
-    <td>
 <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
   <h3>🔴 To-Do App – Task Manager</h3>
   <p>A responsive, vanilla JavaScript ToDo app for managing tasks with localStorage support — focused on clean UI, real-time interaction, and code modularity.</p>
@@ -99,9 +94,6 @@ I'm all about turning designs into functional and accessible websites.</p>
     </a>
   </p>
 </div>
-    </td>
-    <td>
-    </td>
   </tr>
 </table>
 
