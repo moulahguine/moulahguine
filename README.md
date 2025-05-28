@@ -107,7 +107,7 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 <p align="left">
   <a href="https://github.com/moulahguine?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=#bbdcd3"/>
   </a>
 </p>
 
