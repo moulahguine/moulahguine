@@ -52,7 +52,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     <h3>Sagar – Portfolio Website</h3>
     <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-      <img src="1744982912339 (1).jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
@@ -69,7 +69,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     <h3>AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
     <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-      <img src="signupLS.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
@@ -85,7 +85,7 @@ I'm all about turning designs into functional and accessible websites.</p>
   <h3>To-Do App – Task Manager</h3>
   <p>A responsive, vanilla JavaScript ToDo app for managing tasks with localStorage support — focused on clean UI, real-time interaction, and code modularity.</p>
   <a href="https://moulahguine.github.io/todoApp.1/" target="_blank">
-    <img src="cover-page.png" alt="To-Do App Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+    <img src="todo-preview.png" alt="To-Do App Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
   </a>
   <p>
     <a href="https://github.com/moulahguine/todoApp.1" target="_blank">
@@ -105,7 +105,7 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 ### Let's Connect
 
-  <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
+  <img src="footer-section.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
 <p align="center" style="font-size: 18px;">
   - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
   - Let's build something cool together
