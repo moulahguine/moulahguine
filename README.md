@@ -104,13 +104,24 @@ I'm all about turning designs into functional and accessible websites.</p>
 ---
 
 ### Let's Connect
-<img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
-<p align="left">
-  <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+
+<p align="left" style="font-size: 18px;">
+  I'm always open to connect, collaborate, or chat about anything dev related. <br/>
+  Let's build something cool together
+</p>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/moulahguine/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="40px"/>
   </a>
-  <a href="https://github.com/moulahguine" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
+  <a href="https://codepen.io/moulahguine" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&style=for-the-badge&logoColor=white" alt="CodePen" height="40px"/>
   </a>
-  <a href="https://codepen.io/moulahguine" target="_blank">
-    <img src=
+  <a href="https://www.instagram.com/moulahguine/" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" height="40px"/>
+</a>
+</div>
+
+<div align="right">
+  <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="50px" style="border-radius: 50%; margin-bottom: 20px;" />
+</div>
