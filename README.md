@@ -41,7 +41,7 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <!-- Sagar Project -->
 <div class="sagar" width="400px">
   <h3>Sagar – Portfolio Website</h3>
-  <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
+  <p width="400px">A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
   <img src="1744982912339 (1).jpeg" alt="Sagar Project Preview" width="400px" />
   <p>
     <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
