@@ -21,6 +21,7 @@ I'm comfortable working with:
 - Tools like **VS Code** and **CodePen**
 
 Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
+
 ---
 
 ### 🧰 Tech Stack
