@@ -38,38 +38,36 @@ Right now, I'm focused on leveling up my React and building real projects that h
 
 ### Featured Projects
 
-<!-- Projects Wrapper -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- Project Card -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>Sagar – Portfolio Website</h3>
-    <img src="1744982912339 (1).png" alt="Sagar Project" width="100%" style="border-radius: 8px;" />
-    <p>
-      <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" />
-      </a>
-      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" />
-      </a>
-    </p>
-  </div>
-
-  <!-- Project Card -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>AtlasTalk – Real-time Chat App</h3>
-    <img src="signupLS.png" alt="AtlasTalk Project" width="100%" style="border-radius: 8px;" />
-    <p>
-      <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" />
-      </a>
-      <a href="https://moulahguine.github.io/AtlasTalk/" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" />
-      </a>
-    </p>
-  </div>
-
+<!-- Sagar Project -->
+<div class="sagar">
+  <h3>Sagar – Portfolio Website</h3>
+  <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
+  <img src="1744982912339 (1).jpeg" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+  <p>
+    <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
+    </a>
+    <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+    </a>
+  </p>
 </div>
+
+<!-- AtlasTalk Project -->
+<div class="atlasktalk">
+  <h3>AtlasTalk – Real-time Chat App</h3>
+  <p>A full-stack real-time chat application that supports live messaging using WebSocket technology.</p>
+  <img src="atlastalk-preview.jpeg" alt="AtlasTalk Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+  <p>
+    <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
+    </a>
+    <a href="https://moulahguine.github.io/AtlasTalk/" target="_blank">
+      <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+    </a>
+  </p>
+</div>
+
 
 
 
