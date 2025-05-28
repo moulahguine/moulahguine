@@ -41,14 +41,15 @@ Right now, I'm focused on leveling up my React and building real projects that h
 <div>
 <h3> Sagar – Portfolio Website</h3>
   <img src="sagar-preview.png" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
-  <div style="display:flex; gap:10px; align-items:center;">
-    <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank" style="padding:5px 7px; background-color:#f4b168;" >
-      repo
-    </a>
-    <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank" style="padding:5px 7px; background-color:#f4b168;">
-      Live Demo
-    </a>
-  </div>
+  <p align="center">
+  <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
+  </a>
+  <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+</p>
+
 </div>
 
   
