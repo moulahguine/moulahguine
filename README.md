@@ -64,6 +64,8 @@ I'm all about turning designs into functional and accessible websites.</p>
     </p>
   </div>
 
+--
+
   <!-- AtlasTalk Project -->
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
     <h3>AtlasTalk – Real time Chat App</h3>
