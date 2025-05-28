@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Mohamed Oulahguine</h1>
-<h3 align="center">I care about clean design, smooth interaction, and code that makes sense.</h3>
+<h3 align="center">I care about clean design, smooth interaction, and code that makes sense</h3>
 
 ---
 
