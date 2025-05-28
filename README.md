@@ -64,7 +64,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     </p>
   </div>
 
---
+---
 
   <!-- AtlasTalk Project -->
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
@@ -82,6 +82,11 @@ I'm all about turning designs into functional and accessible websites.</p>
       </a>
     </p>
   </div>
+
+
+---
+
+  
   <!-- To-Do App Project -->
 <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
   <h3>To-Do App – Task Manager</h3>
