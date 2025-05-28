@@ -2,7 +2,7 @@
   <img src="Mohamed Oulahguine (1)_pages-to-jpg-0001.jpg" alt="Banner" style="width: 100%;" />
 </p>
 
-<h1 align="center">Hey, I'm Mohamed Oulahguine 👋</h1>
+<h1 align="center">Hey, I'm Mohamed Oulahguine</h1>
 <h3 align="center">Front-End Developer on a mission to build smooth, responsive, and clean UIs.</h3>
 
 ---
@@ -20,7 +20,7 @@ I'm comfortable working with:
 - Tools like **VS Code** and **CodePen**
 
 Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
-
+<img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS" width="250px"  align="left"/>
 ---
 
 ### 🧰 Tech Stack
