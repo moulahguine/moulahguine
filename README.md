@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Mohamed Oulahguine.png" alt="Banner" style="width: 100%;" />
-</p>
-
 <h1 align="center">Hey, I'm Mohamed Oulahguine</h1>
 <h3 align="center">Front-End Developer on a mission to build smooth, responsive, and clean UIs.</h3>
 
