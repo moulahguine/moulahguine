@@ -2,24 +2,28 @@
   <img src="Mohamed Oulahguine (1)_pages-to-jpg-0001.jpg" alt="Banner" style="width: 100%;" />
 </p>
 
-<h1 align="center">Hey there! I'm Mohamed Oulahguine 👋</h1>
-<h3 align="center">Front-End Developer who loves turning designs into functional and responsive web apps.</h3>
+<h1 align="center">Hey, I'm Mohamed Oulahguine 👋</h1>
+<h3 align="center">Front-End Developer on a mission to build smooth, responsive, and clean UIs.</h3>
 
 ---
 
-### 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-Hi! I'm Mohamed, a software engineering student who enjoys building web interfaces that look good and work even better.  
-I've been diving deep into front-end development and always learning something new along the way.
+Hey! I'm a Software Engineering student who loves working on the front end of the web.  
+I'm all about turning designs into functional and accessible websites.
 
-- 🔍 I care about **clean code**, **user experience**, and **responsive design**
-- 🛠️ My go-to tools include **HTML**, **CSS**, **JavaScript**, **React**, and **Tailwind**
-- 🎨 I like bringing life to UIs and making things feel smooth and intuitive
-- 🌱 Currently leveling up my TypeScript and digging deeper into accessibility
+I'm comfortable working with:
+
+- **HTML**, **CSS**, **JavaScript**
+- **TypeScript**, **React**, **Tailwind CSS**, **Sass**
+- Version control with **Git** and **GitHub**
+- Tools like **VS Code** and **CodePen**
+
+Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -36,24 +40,47 @@ I've been diving deep into front-end development and always learning something n
 
 ---
 
-### 🌟 Projects I'm Proud Of
+### 🚀 Featured Projects
 
-- **Sagar** – A sleek portfolio website built to be fast and responsive  
-  👉 [View project](https://moulahguine.github.io/sagar-portfolio/)
+- **Sagar** – A clean and modern portfolio template  
+  👉 [Live Preview](https://moulahguine.github.io/sagar-portfolio/)
 
-- **Local Storage Demo** – A mini project showing how to work with local storage in the browser  
-  👉 [View project](https://moulahguine.github.io/local-storage-project/)
-
----
-
-### 🎬 Content Creator
-
-I share what I learn, how I build things, and tips for fellow front-end learners on YouTube.  
-If you’re into web development, feel free to check it out and subscribe!
+- **Local Storage Demo** – A small project showing how localStorage works  
+  👉 [Check it out](https://moulahguine.github.io/local-storage-project/)
 
 ---
 
-### 📬 Let’s Connect
+### 🤹‍♂️ Real Front-End Life
+
+<p align="center">
+  Some days, JavaScript makes me sweat. Other days, I feel like a coding superhero.
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS" width="250px" />
+        <p><strong>Why is it still undefined?! 😩</strong></p>
+      </td>
+      <td align="center">
+        <img src="ChatGPT Image May 19, 2025, 11_14_28 AM.png" alt="Victory!" width="250px" />
+        <p><strong>When I finally fix the bug 🔥</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📹 Content Creation
+
+I share my front-end dev process and projects on YouTube.  
+If you're learning or just curious about how I build things, check it out!
+
+---
+
+### 📬 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
@@ -63,13 +90,4 @@ If you’re into web development, feel free to check it out and subscribe!
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
   <a href="https://codepen.io/moulahguine" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge" alt="CodePen"/>
-  </a>
-  <a href="https://www.youtube.com/@moulahghuine" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" alt="YouTube"/>
-  </a>
-</p>
-
----
-
-✨ Always open to collaborations, feedback, or just a good tech chat!
+    <img src=
