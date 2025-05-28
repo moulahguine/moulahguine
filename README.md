@@ -45,57 +45,6 @@ I'm all about turning designs into functional and accessible websites.</p>
 
 ### Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Sagar Project -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>✅ Sagar – Portfolio Website</h3>
-    <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
-     <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
-    </a>
-    <p>
-      <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-      </a>
-      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
-      </a>
-    </p>
-  </div>
-
----
-
-  <!-- AtlasTalk Project -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>🔴 AtlasTalk – Real time Chat App</h3>
-    <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
-    <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
-    </a>
-    <p>
-      <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-      </a>
-      <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
-      </a>
-    </p>
-  </div>
-
-
----
-
-  
-  <!-- To-Do App Project -->
-
-
-
-</div>  
-
----
-
-
 <table>
   <tr>
     <td>
@@ -103,7 +52,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     <h3>✅ Sagar – Portfolio Website</h3>
     <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
@@ -120,7 +69,7 @@ I'm all about turning designs into functional and accessible websites.</p>
     <h3>🔴 AtlasTalk – Real time Chat App</h3>
     <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
     <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
       <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
@@ -139,7 +88,7 @@ I'm all about turning designs into functional and accessible websites.</p>
   <h3>🔴 To-Do App – Task Manager</h3>
   <p>A responsive, vanilla JavaScript ToDo app for managing tasks with localStorage support — focused on clean UI, real-time interaction, and code modularity.</p>
   <a href="https://moulahguine.github.io/todoApp.1/" target="_blank">
-    <img src="todo-preview.png" alt="To-Do App Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+    <img src="todo-preview.png" alt="To-Do App Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   </a>
   <p>
     <a href="https://github.com/moulahguine/todoApp.1" target="_blank">
@@ -152,9 +101,6 @@ I'm all about turning designs into functional and accessible websites.</p>
 </div>
     </td>
     <td>
-      <a href="https://github.com/moulahguine">
-        <img src="https://github-readme-stats.vercel.app/api?username=moulahguine&show_icons=true&theme=radical" />
-      </a>
     </td>
   </tr>
 </table>
