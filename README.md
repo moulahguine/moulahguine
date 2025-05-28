@@ -33,7 +33,6 @@ Right now, I'm focused on leveling up my React and building real projects that h
 </p>
 
 ---
-<img src="newone.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
 
 ### Featured Projects
 <div align="left">
@@ -74,7 +73,7 @@ Right now, I'm focused on leveling up my React and building real projects that h
 ---
 
 ### 📬 Let's Connect
-
+<img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Struggling with JS"  width="250px" height="100%" style="float: left; margin: 0; padding: 0;:"  align="right"/>
 <p align="left">
   <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
