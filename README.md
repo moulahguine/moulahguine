@@ -107,9 +107,9 @@ I'm all about turning designs into functional and accessible websites.</p>
 
   <img src="ChatGPT Image May 19, 2025, 10_57_26 AM.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
 <p align="center" style="font-size: 18px;">
-  -I'm always open to connect, collaborate, or chat about anything dev related. <br/>
-  -Let's build something cool together
-  -Every line of code is a step closer to mastering the craft.
+  - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
+  - Let's build something cool together
+  - Every line of code is a step closer to mastering the craft.
 </p>
 
 <div align="center" style="margin-top: 20px;">
