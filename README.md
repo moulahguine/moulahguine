@@ -5,7 +5,7 @@
 
 ### About Me && Tech Stack
 
-<img src="ChatGPT Image May 18, 2025, 06_58_53 PM.png" alt="Struggling with JS"  width="200px" height="100%" style="float: left; margin: 0; padding: 0;"  align="right"/>
+<img src="about-section.png" alt="Struggling with JS"  width="200px" height="100%" style="float: left; margin: 0; padding: 0;"  align="right"/>
 
 <div width="400px" style="margin: auto; text-align: left;">
 <p align="center">
