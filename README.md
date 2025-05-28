@@ -113,7 +113,7 @@ I'm all about turning designs into functional and accessible websites.</p>
   <tr>
     <td>
       <a href="https://github.com/moulahguine/sagar-portfolio">
-        <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="50px" style="border-radius: 8px; margin-bottom: 10px;" />
+        <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="100px" style="border-radius: 8px; margin-bottom: 10px;" />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=moulahguine&repo=sagar-portfolio&border_color=bbdcd3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=bbdcd3" />
       </a>
     </td>
