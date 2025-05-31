@@ -22,6 +22,7 @@
 .
 .
 .
+.
 <p>I'm a Software Engineering student who loves working on the front end of the web.<br>
 I'm all about turning designs into functional and accessible websites.</p>
 
