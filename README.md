@@ -2,6 +2,28 @@
 <h3 align="center">I care about clean design, smooth interaction, and code that makes sense</h3>
 
 ---
+### Let's Connect
+
+  <img src="footer-section.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
+<p align="center" style="font-size: 18px;">
+  - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
+  - Let's build something cool together
+  - Every line of code is a step closer to mastering the craft.
+</p>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/moulahguine/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="40px"/>
+  </a>
+  <a href="https://codepen.io/moulahguine" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&style=for-the-badge&logoColor=white" alt="CodePen" height="40px"/>
+  </a>
+  <a href="https://www.instagram.com/moulahguine/" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" height="40px"/>
+</a>
+</div>
+
+---
 
 ### About Me && Tech Stack
 
@@ -108,25 +130,5 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 
 
----
-### Let's Connect
 
-  <img src="footer-section.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
-<p align="center" style="font-size: 18px;">
-  - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
-  - Let's build something cool together
-  - Every line of code is a step closer to mastering the craft.
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/moulahguine/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="40px"/>
-  </a>
-  <a href="https://codepen.io/moulahguine" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&style=for-the-badge&logoColor=white" alt="CodePen" height="40px"/>
-  </a>
-  <a href="https://www.instagram.com/moulahguine/" target="_blank" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" height="40px"/>
-</a>
-</div>
 
