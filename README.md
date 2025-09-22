@@ -9,7 +9,7 @@
 
 <div width="400px" style="margin: auto; text-align: left;">
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -21,7 +21,6 @@
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" alt="Framer Motion" width="40" height="40"/>
-  <img src="https://react-query-v3.tanstack.com/_next/static/media/logo.4f9e7f8a.svg" alt="React Query" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
@@ -30,8 +29,13 @@
 .
 .
 .
-<p>I'm a Software Engineering student who loves working on the front end of the web.<br>
-I'm all about turning designs into functional and accessible websites.</p>
+<p>I’m a Frontend Developer with 3+ years of experience delivering SPAs, dashboards, and e-commerce platforms. I focus on performance, clean state management, and accessible interfaces that feel fast on any device.
+<br/>
+I work closely with designers and backend engineers, turning Figma designs into components, write maintainable code, and review PRs to keep quality high
+<br/>
+
+I'm actively seeking Frontend Development opportunities and collaborations where I can contribute to impactful projects..</p>
+<br/>
 
 <p>I'm comfortable working with:</p>
 
