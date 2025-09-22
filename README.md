@@ -1,10 +1,9 @@
-<h1 align="center">Hey, I'm Mohamed Oulahguine</h1>
+<h1 align="center">Hey 👋, I'm Mohamed Oulahguine</h1>
 <h3 align="center">I care about clean design, smooth interaction, and code that makes sense</h3>
 
 ---
 ### Let's Connect
 
-  <img src="footer-section.png" alt="Mohamed Oulahguine" width="100px"  style="border-radius: 50%; margin-bottom: 20px;" align="right" />
 <p align="center" style="font-size: 18px;">
   - I'm always open to connect, collaborate, or chat about anything dev related. <br/>
   - Let's build something cool together
