@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -35,19 +34,19 @@ I work closely with designers and backend engineers, turning Figma designs into 
 <br/>
 
 I'm actively seeking Frontend Development opportunities and collaborations where I can contribute to impactful projects..</p>
-<br/>
 
 <p>I'm comfortable working with:</p>
 
 
 <ul>
-  <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
-  <li><strong>TypeScript</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Sass</strong></li>
-  <li>Version control with <strong>Git</strong> and <strong>GitHub</strong></li>
-  <li>Tools like <strong>cursor editor</strong> and <strong>CodePen</strong></li>
+  <li><strong>Core Web:</strong> HTML, CSS, Sass, JavaScript, TypeScript</li>
+  <li><strong>Frameworks & Libraries:</strong> React, Redux, React Query, Framer Motion</li>
+  <li><strong>Styling:</strong> Tailwind CSS, Material UI (MUI)</li>
+  <li><strong>Build & Tooling:</strong> Vite, Jest (testing)</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Editors & Tools:</strong> VS Code, Cursor AI, CodePen</li>
 </ul>
 
-<p>Right now, I'm focused on leveling up my React and building real projects that help me grow as a developer.</p>
 
 </div>
 
@@ -60,53 +59,46 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 <table>
   <tr>
       <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>✅ Sagar – Portfolio Website</h3>
+    <h3>✅ Portfolio Website</h3>
     <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
-     <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
-      <img src="sagar-preview.jpeg" alt="Sagar Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+     <a href="https://mohamedoulahguine.com" target="_blank">
+      <img src="myPortfolio.jpeg" alt="my Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
     <p>
-      <a href="https://github.com/moulahguine/sagar-portfolio" target="_blank">
+      <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
         <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
       </a>
-      <a href="https://moulahguine.github.io/sagar-portfolio/" target="_blank">
+      <a href="https://mohamedoulahguine.com" target="_blank">
         <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
       </a>
     </p>
   </div>
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>🔴 AtlasTalk – Real time Chat App</h3>
-    <p>A full-stack real time chat application (still in progress) built to learn backend development and real time messaging even though my main focus is on frontend development.</p>
-    <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-      <img src="atlasTalk-preview.png" alt="AtlasTalk Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
-    </a>
-    <p>
-      <a href="https://github.com/moulahguine/AtlasTalk" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-      </a>
-      <a href="https://moulahguine.github.io/AtlasTalk/public/signup.html" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
-      </a>
-    </p>
-  </div>
+    
   </tr>
   <tr>
-<div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-  <h3>🔴 To-Do App – Task Manager</h3>
-  <p>A responsive, vanilla JavaScript ToDo app for managing tasks with localStorage support — focused on clean UI, real-time interaction, and code modularity.</p>
-  <a href="https://moulahguine.github.io/todoApp.1/" target="_blank">
-    <img src="todo-preview.png" alt="To-Do App Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+ <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+  <h3>✅ Fashion Shop – E-Commerce Website</h3>
+  <p>A responsive and modern e-commerce web application with product listings, categories, and a smooth shopping experience. Built with React, Tailwind CSS, and modern tooling.</p>
+  <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
+    <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   </a>
   <p>
-    <a href="https://github.com/moulahguine/todoApp.1" target="_blank">
+    <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
       <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
     </a>
-    <a href="https://moulahguine.github.io/todoApp.1/" target="_blank">
+    <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
       <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
     </a>
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
+  </p>
 </div>
   </tr>
+ 
 </table>
 
 
