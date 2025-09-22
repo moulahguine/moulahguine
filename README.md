@@ -58,22 +58,27 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 <table>
   <tr>
-      <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <h3>✅ Portfolio Website</h3>
-    <p>A clean, responsive, and modern personal portfolio template built with HTML, CSS, and JavaScript.</p>
-     <a href="https://mohamedoulahguine.com" target="_blank">
-      <img src="myPortfolio.jpeg" alt="my Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
+  <h3>✅ Personal Portfolio Website</h3>
+  <p>A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
+  <a href="https://mohamedoulahguine.com" target="_blank">
+    <img src="myPortfolio.jpeg" alt="Portfolio Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+  </a>
+  <p>
+    <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
     </a>
-    <p>
-      <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-      </a>
-      <a href="https://mohamedoulahguine.com" target="_blank">
-        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
-      </a>
-    </p>
-  </div>
-    
+    <a href="https://mohamedoulahguine.com" target="_blank">
+      <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
+  </p>
+</div>
+
   </tr>
   <tr>
  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
