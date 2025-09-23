@@ -81,7 +81,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   <tr>
    <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
   <h3>✅ Personal Portfolio Website</h3>
-  <p  style=" width: 400px; text-align: center;">A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
+  <p   width=" 400px">A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
   <a href="https://mohamedoulahguine.com" target="_blank">
     <img src="laptop1.png" alt="Portfolio Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   </a>
