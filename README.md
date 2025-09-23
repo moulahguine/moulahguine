@@ -83,7 +83,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   <h3>✅ Personal Portfolio Website</h3>
   <p>A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
   <a href="https://mohamedoulahguine.com" target="_blank">
-    <img src="myPortfolio.png" alt="Portfolio Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+    <img src="laptop1.png" alt="Portfolio Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
   </a>
   <p>
     <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
