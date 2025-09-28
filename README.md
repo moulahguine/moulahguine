@@ -80,8 +80,6 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ### Featured Projects
 
-### Featured Projects
-
 <table>
   <tr>
     <td align="center">
@@ -106,7 +104,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     <td align="center">
       <h3>✅ Fashion Shop – E-Commerce Website</h3>
       <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
-        <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="300"/>
+        <img src="ecommerce.webp" alt="Fashion Shop Project Preview" width="300"/>
       </a>
       <p>
         <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
@@ -128,7 +126,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     <td align="center">
       <h3>✅ Clinic Website</h3>
       <a href="https://clinic-dashboard.netlify.app/" target="_blank">
-        <img src="clinic-dashboard-preview.png" alt="Clinic Dashboard Preview" width="300"/>
+        <img src="clinic.webp" alt="Clinic Dashboard Preview" width="300"/>
       </a>
       <p>
         <a href="https://github.com/moulahguine/clinic-dashboard" target="_blank">
@@ -148,7 +146,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     <td align="center">
       <h3>✅ Modern Landing Page</h3>
       <a href="https://modern-landingpage.netlify.app/" target="_blank">
-        <img src="modern-landing-preview.png" alt="Modern Landing Page Preview" width="300"/>
+        <img src="modern.webp" alt="Modern Landing Page Preview" width="300"/>
       </a>
       <p>
         <a href="https://github.com/moulahguine/modern-landingpage" target="_blank">
