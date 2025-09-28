@@ -80,38 +80,89 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ### Featured Projects
 
+### Featured Projects
+
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top; text-align: center; padding: 10px;">
+    <td align="center">
       <h3>✅ Personal Portfolio Website</h3>
-      <p>A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
       <a href="https://mohamedoulahguine.com" target="_blank">
-        <img src="laptop1.png" alt="Portfolio Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+        <img src="laptop1.png" alt="Portfolio Project Preview" width="300"/>
       </a>
       <p>
         <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-        </a>
+          Repo
+        </a> | 
         <a href="https://mohamedoulahguine.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+          Live Demo
         </a>
       </p>
+        <p>
+        <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
     </td>
-
-    <td style="width: 50%; vertical-align: top; text-align: center; padding: 10px;">
+    <td align="center">
       <h3>✅ Fashion Shop – E-Commerce Website</h3>
-      <p>A responsive and modern e-commerce web application with product listings, categories, and a smooth shopping experience. Built with React, Tailwind CSS, and modern tooling.</p>
       <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
-        <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+        <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="300"/>
       </a>
       <p>
         <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-        </a>
+          Repo
+        </a> | 
         <a href="https://e-fashionshop.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+          Live Demo
         </a>
       </p>
+       <p>
+        <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>✅ Clinic Website</h3>
+      <a href="https://clinic-dashboard.netlify.app/" target="_blank">
+        <img src="clinic-dashboard-preview.png" alt="Clinic Dashboard Preview" width="300"/>
+      </a>
+      <p>
+        <a href="https://github.com/moulahguine/clinic-dashboard" target="_blank">
+          Repo
+        </a> | 
+        <a href="https://clinic-dashboard.netlify.app/" target="_blank">
+          Live Demo
+        </a>
+      </p>
+       <p>
+    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/MaterialUI-0081CB?logo=mui&logoColor=white" alt="Material UI"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite"/>
+  </p>
+    </td>
+    <td align="center">
+      <h3>✅ Modern Landing Page</h3>
+      <a href="https://modern-landingpage.netlify.app/" target="_blank">
+        <img src="modern-landing-preview.png" alt="Modern Landing Page Preview" width="300"/>
+      </a>
+      <p>
+        <a href="https://github.com/moulahguine/modern-landingpage" target="_blank">
+          Repo
+        </a> | 
+        <a href="https://modern-landingpage.netlify.app/" target="_blank">
+          Live Demo
+        </a>
+      </p>
+       <p>
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
     </td>
   </tr>
 </table>
