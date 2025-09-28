@@ -77,55 +77,44 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ### Featured Projects
 
-<table>
-  <tr>
-   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-  <h3>✅ Personal Portfolio Website</h3>
-  <p   width=" 400px">A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
-  <a href="https://mohamedoulahguine.com" target="_blank">
-    <img src="laptop1.png" alt="Portfolio Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
-  </a>
-  <p>
-    <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
-      <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-    </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Project 1 -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <h3>✅ Personal Portfolio Website</h3>
+    <p>A fully responsive personal portfolio to showcase my skills, projects, and experience. Built with React, Sass, and modern tooling for clean design and smooth interactions.</p>
     <a href="https://mohamedoulahguine.com" target="_blank">
-      <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+      <img src="laptop1.png" alt="Portfolio Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
     </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
-  </p>
+    <p>
+      <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
+      </a>
+      <a href="https://mohamedoulahguine.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+    </p>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <h3>✅ Fashion Shop – E-Commerce Website</h3>
+    <p>A responsive and modern e-commerce web application with product listings, categories, and a smooth shopping experience. Built with React, Tailwind CSS, and modern tooling.</p>
+    <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
+      <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+    </a>
+    <p>
+      <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
+      </a>
+      <a href="https://e-fashionshop.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
+      </a>
+    </p>
+  </div>
+
 </div>
 
-  </tr>
-  <tr>
- <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-  <h3>✅ Fashion Shop – E-Commerce Website</h3>
-  <p>A responsive and modern e-commerce web application with product listings, categories, and a smooth shopping experience. Built with React, Tailwind CSS, and modern tooling.</p>
-  <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
-    <img src="fashion-shop-preview.png" alt="Fashion Shop Project Preview" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
-  </a>
-  <p>
-    <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
-      <img src="https://img.shields.io/badge/Repo-black?style=for-the-badge&labelColor=white&logo=github&logoColor=black" alt="Repo" />
-    </a>
-    <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
-      <img src="https://img.shields.io/badge/Live--Demo-black?style=for-the-badge&labelColor=white&logo=vercel&logoColor=black" alt="Live Demo" />
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
-  </p>
-</div>
-  </tr>
- 
-</table>
 
 
 
