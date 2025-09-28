@@ -76,7 +76,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     <td align="center">
       <h3>✅ Personal Portfolio Website</h3>
       <a href="https://mohamedoulahguine.com" target="_blank">
-        <img src="laptop1.png" alt="Portfolio Project Preview" width="300"/>
+        <img src="porfolio.webp" alt="Portfolio Project Preview" width="300"/>
       </a>
          <p>Enhanced my skills in optimizing visuals and responsive design. Tackled challenges with lazy-loading, smooth animations, and scaling UI across devices, delivering a fast and polished experience.</p>
       <p>
