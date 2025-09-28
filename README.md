@@ -1,13 +1,7 @@
-<h1 align="center">Hey 👋, I'm Mohamed Oulahguine</h1>
-
-### Let's Connect
-
-<p align="center" style="font-size: 18px; margin-bottom: 10px;">
-  I'm always open to connect, collaborate, or chat about anything dev-related.
-</p>
+<h1 align="center">Hey 👋, I'm Mohamed Oulahguine (ou-laha-kiin)</h1>
 
 <p align="center" style="font-size: 16px; margin-bottom: 10px;">
-  📍 live in Istanbul, Turkey (from Morocco ) <br/>
+  📍 live in Istanbul, Turkey (from Morocco) <br/>
   ✉️ <a href="mailto:moulahguine@example.com">moulahguine@example.com</a> <br/>
   🌐 <a href="https://mohamedoulahguine.com" target="_blank">mohamedoulahguine.com</a>
 </p>
@@ -44,16 +38,6 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 <p>I'm comfortable working with:</p>
 
-
-<ul>
-  <li><strong>Core Web:</strong> HTML, CSS, Sass, JavaScript, TypeScript</li>
-  <li><strong>Frameworks & Libraries:</strong> React, Redux, React Query, Framer Motion</li>
-  <li><strong>Styling:</strong> Tailwind CSS, Material UI (MUI)</li>
-  <li><strong>Build & Tooling:</strong> Vite, Jest (testing)</li>
-  <li><strong>Version Control:</strong> Git, GitHub</li>
-  <li><strong>Editors & Tools:</strong> VS Code, Cursor AI, CodePen</li>
-</ul>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -70,7 +54,14 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
 </p>
-
+<ul>
+  <li><strong>Core Web:</strong> HTML, CSS, Sass, JavaScript, TypeScript</li>
+  <li><strong>Frameworks & Libraries:</strong> React, Redux, React Query, Framer Motion</li>
+  <li><strong>Styling:</strong> Tailwind CSS, Material UI (MUI)</li>
+  <li><strong>Build & Tooling:</strong> Vite, Jest (testing)</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Editors & Tools:</strong> VS Code, Cursor AI, CodePen</li>
+</ul>
 
 </div>
 
@@ -85,8 +76,9 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     <td align="center">
       <h3>✅ Personal Portfolio Website</h3>
       <a href="https://mohamedoulahguine.com" target="_blank">
-        <img src="porfolio.webp" alt="Portfolio Project Preview" width="300"/>
+        <img src="laptop1.png" alt="Portfolio Project Preview" width="300"/>
       </a>
+         <p>Enhanced my skills in optimizing visuals and responsive design. Tackled challenges with lazy-loading, smooth animations, and scaling UI across devices, delivering a fast and polished experience.</p>
       <p>
         <a href="https://github.com/moulahguine/my_portfolio-moulahguine" target="_blank">
           Repo
@@ -106,6 +98,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
       <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
         <img src="ecommerce.webp" alt="Fashion Shop Project Preview" width="300"/>
       </a>
+       <p>Mastered dynamic product management and interactive UI behaviors. Overcame obstacles in responsive grids, mobile navigation, and performance tuning to create a seamless shopping experience.</p>
       <p>
         <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
           Repo
@@ -128,6 +121,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
       <a href="https://clinic-dashboard.netlify.app/" target="_blank">
         <img src="clinic.webp" alt="Clinic Dashboard Preview" width="300"/>
       </a>
+       <p>Refined my approach to building complex dashboards. Addressed challenges in displaying structured data, creating responsive cards, and improving accessibility for better usability.</p>
       <p>
         <a href="https://github.com/moulahguine/clinic-dashboard" target="_blank">
           Repo
@@ -148,6 +142,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
       <a href="https://modern-landingpage.netlify.app/" target="_blank">
         <img src="modern.webp" alt="Modern Landing Page Preview" width="300"/>
       </a>
+      <p>Focused on lightweight, high-performance interface design. Handled responsive layouts, smooth scrolling, and cross-device consistency to deliver a visually clean and engaging landing page.</p>
       <p>
         <a href="https://github.com/moulahguine/modern-landingpage" target="_blank">
           Repo
