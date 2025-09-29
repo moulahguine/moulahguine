@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 16px; margin-bottom: 10px;">
   📍 live in Istanbul, Turkey (from Morocco) <br/>
-  ✉️ <a href="mailto:moulahguine@example.com">moulahguine@example.com</a> <br/>
+  ✉️ <a href="mailto:mohamedoulahguine@gmail.com">mohamedoulahguine@gmail.com</a> <br/>
   🌐 <a href="https://mohamedoulahguine.com" target="_blank">mohamedoulahguine.com</a>
 </p>
 
