@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mohamed Oulahguine (ou-laha-kiin)</h1>
-
+<h1 align="center">Hey 👋, I'm Mohamed Oulahguine (o-laha-kiin)</h1>
 <p align="center" style="font-size: 16px; margin-bottom: 10px;">
   📍 live in Istanbul, Turkey (from Morocco) <br/>
   ✉️ <a href="mailto:mohamedoulahguine@gmail.com">mohamedoulahguine@gmail.com</a> <br/>
