@@ -148,7 +148,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
         <a href="https://github.com/moulahguine/modern_world" target="_blank">
           Repo
         </a> | 
-        <a href="https://modern-landingpage.netlify.app/" target="_blank">
+        <a href="https://modernworldx.netlify.app/" target="_blank">
           Live Demo
         </a>
       </p>
