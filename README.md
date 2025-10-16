@@ -140,12 +140,12 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     </td>
     <td align="center">
       <h3>✅ Modern Landing Page</h3>
-      <a href="https://modern-landingpage.netlify.app/" target="_blank">
+      <a href="https://modernworldx.netlify.app/" target="_blank">
         <img src="modern.webp" alt="Modern Landing Page Preview" width="300"/>
       </a>
       <p>Focused on lightweight, high-performance interface design. Handled responsive layouts, smooth scrolling, and cross-device consistency to deliver a visually clean and engaging landing page.</p>
       <p>
-        <a href="https://github.com/moulahguine/modern-landingpage" target="_blank">
+        <a href="https://github.com/moulahguine/modern_world" target="_blank">
           Repo
         </a> | 
         <a href="https://modern-landingpage.netlify.app/" target="_blank">
@@ -153,9 +153,11 @@ I'm actively seeking Frontend Development opportunities and collaborations where
         </a>
       </p>
        <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS"/>
+
   </p>
     </td>
   </tr>
