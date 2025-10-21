@@ -9,16 +9,17 @@
   <a href="https://www.linkedin.com/in/moulahguine/" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" height="35px"/>
   </a>
-  <a href="https://github.com/moulahguine" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" alt="GitHub" height="35px"/>
-  </a>
   <a href="https://www.instagram.com/moulahguine/" target="_blank" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" height="35px"/>
   </a>
-  <a href="https://codepen.io/moulahguine" target="_blank" style="margin: 0 5px;">
-    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&style=for-the-badge&logoColor=white" alt="CodePen" height="35px"/>
+  <a href="https://www.upwork.com/freelancers/moulahguine" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=white" alt="Upwork" height="35px"/>
+  </a>
+  <a href="https://leetcode.com/u/moulahguine/" target="_blank" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge&logoColor=white" alt="LeetCode" height="35px"/>
   </a>
 </div>
+
 
 ---
 
