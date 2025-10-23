@@ -97,7 +97,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
     </td>
     <td align="center">
       <h3>✅ Fashion Shop – E-Commerce Website</h3>
-      <a href="https://moulahguine.github.io/fashion-shop/" target="_blank">
+      <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
         <img src="ecommerce.webp" alt="Fashion Shop Project Preview" width="300"/>
       </a>
        <p>Mastered dynamic product management and interactive UI behaviors. Overcame obstacles in responsive grids, mobile navigation, and performance tuning to create a seamless shopping experience.</p>
@@ -105,7 +105,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
         <a href="https://github.com/moulahguine/fashion-shop" target="_blank">
           Repo
         </a> | 
-        <a href="https://e-fashionshop.netlify.app/" target="_blank">
+        <a href="https://fashionshop-site.vercel.app/" target="_blank">
           Live Demo
         </a>
       </p>
@@ -119,7 +119,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   </tr>
   <tr>
     <td align="center">
-      <h3>✅ Clinic Website</h3>
+      <h3>🚫 Clinic Website "comming soon"</h3>
       <a href="https://clinic-dashboard.netlify.app/" target="_blank">
         <img src="clinic.webp" alt="Clinic Dashboard Preview" width="300"/>
       </a>
