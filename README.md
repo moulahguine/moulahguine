@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Mohamed Oulahguine (o-laha-kiin)</h1>
 <p align="center" style="font-size: 16px; margin-bottom: 10px;">
   📍 live in Istanbul, Turkey (from Morocco) <br/>
-  ✉️ <a href="mailto:mohamedoulahguine@gmail.com">mohamedoulahguine@gmail.com</a> <br/>
-  🌐 <a href="https://mohamedoulahguine.com" target="_blank">mohamedoulahguine.com</a>
+  ✉️ <a href="mailto:hello@mohamedoulahguine.com">hello@mohamedoulahguine.com</a> <br/>
+  🌐 <a href="https://mohamedoulahguine.com" target="_blank">www.mohamedoulahguine.com</a>
 </p>
 
 <div align="center" style="margin-top: 10px;">
@@ -73,7 +73,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ### Featured Projects
 
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <h3>✅ Personal Portfolio Website</h3>
@@ -162,4 +162,4 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   </p>
     </td>
   </tr>
-</table>
+</table> -->
