@@ -170,7 +170,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 </h1>
 
 <h3 align="center">
-  Frontend Developer • React Specialist • UI Engineer • Performance Focused
+Frontend Engineer • React & Next.js • Building Scalable and Maintainable UI Systems
 </h3>
 
 <p align="center">
@@ -196,7 +196,7 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ---
 
-## 🚀 Summary
+## My Approach
 
 I started frontend development in 2021 without following a clear path, just trying to understand how things actually work. Over time, that pushed me to focus less on surface-level UI and more on structure, rendering behavior, and how applications hold up as they grow.
 
@@ -208,10 +208,10 @@ Currently **open to Frontend roles & freelance collaborations**.
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,materialui,vite,jest,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,materialui,vite,jest,git,github,vscode,cursorai" />
 </p>
 
 <div align="center">
