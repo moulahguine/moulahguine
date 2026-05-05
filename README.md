@@ -198,13 +198,11 @@ I'm actively seeking Frontend Development opportunities and collaborations where
 
 ## 🚀 Summary
 
-Frontend Developer with **3+ years of experience** building high-performance web applications.
+I started frontend development in 2021 without following a clear path, just trying to understand how things actually work. Over time, that pushed me to focus less on surface-level UI and more on structure, rendering behavior, and how applications hold up as they grow.
 
-- ⚡ Built **10+ production-ready projects** (dashboards, SPAs, e-commerce)
-- 🎯 Focused on **performance, accessibility, and scalability**
-- 🧩 Strong in translating **Figma → clean, maintainable code**
-- 🤝 Experienced collaborating with designers & backend teams
-- 🔍 Passionate about solving UI/UX challenges and optimizing user experience
+Since then, I’ve worked on different kinds of projects including dashboards, portfolios, landing pages, and e-commerce interfaces, along with client work that required real decisions, not just implementation. That’s where my focus shifted toward building interfaces as systems, keeping them predictable, easy to extend, and maintainable over time.
+
+What matters to me is how the interface behaves after it’s built. I pay attention to component structure, state management, and the small details that usually cause problems later if they’re ignored. The goal is to keep things clear, stable, and easy for others to work with.
 
 Currently **open to Frontend roles & freelance collaborations**.
 
