@@ -146,67 +146,8 @@ Currently **open to Frontend roles & freelance collaborations**.
 
 </div>
 
----
 
-## 💼 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>Personal Portfolio</h3>
-      <a href="https://mohamedoulahguine.com">
-        <img src="porfolio.webp" width="300"/>
-      </a>
-      <p>Fast, responsive portfolio with optimized assets and smooth UI animations.</p>
-      <p>
-        <a href="https://github.com/moulahguine/my_portfolio-moulahguine">Repo</a> |
-        <a href="https://mohamedoulahguine.com">Live</a>
-      </p>
-    </td>
-
-    <td align="center">
-      <h3>Fashion Shop</h3>
-      <a href="https://fashionshop-site.vercel.app/">
-        <img src="ecommerce.webp" width="300"/>
-      </a>
-      <p>E-commerce app with dynamic UI, responsive layout, and performance tuning.</p>
-      <p>
-        <a href="https://github.com/moulahguine/fashion-shop">Repo</a> |
-        <a href="https://fashionshop-site.vercel.app/">Live</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h3>Clinic Dashboard</h3>
-      <a href="https://clinic-dashboard.netlify.app/">
-        <img src="clinic.webp" width="300"/>
-      </a>
-      <p>Data-driven dashboard with responsive UI and accessibility improvements.</p>
-      <p>
-        <a href="https://github.com/moulahguine/clinic-dashboard">Repo</a> |
-        <a href="https://clinic-dashboard.netlify.app/">Live</a>
-      </p>
-    </td>
-
-    <td align="center">
-      <h3>Modern Landing Page</h3>
-      <a href="https://modernworldx.netlify.app/">
-        <img src="modern.webp" width="300"/>
-      </a>
-      <p>Clean, high-performance landing page with smooth scrolling and layout precision.</p>
-      <p>
-        <a href="https://github.com/moulahguine/modern_world">Repo</a> |
-        <a href="https://modernworldx.netlify.app/">Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📬 Let's Connect
 
 <p align="center">
   I'm always open to discussing new opportunities, collaborations, or interesting projects.
