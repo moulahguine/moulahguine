@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mohamed Oulahguine (o-laha-kiin)</h1>
+<!-- <h1 align="center">Hey 👋, I'm Mohamed Oulahguine (o-laha-kiin)</h1>
 <p align="center" style="font-size: 16px; margin-bottom: 10px;">
   📍 live in Istanbul, Turkey (from Morocco) <br/>
   ✉️ <a href="mailto:hello@mohamedoulahguine.com">hello@mohamedoulahguine.com</a> <br/>
@@ -162,4 +162,134 @@ I'm actively seeking Frontend Development opportunities and collaborations where
   </p>
     </td>
   </tr>
-</table> -->
+</table> --> -->
+
+<!-- HERO SECTION -->
+<h1 align="center" style="font-size: 42px; font-weight: 800;">
+  Mohamed Oulahguine
+</h1>
+
+<h3 align="center">
+  Frontend Developer • React Specialist • UI Engineer • Performance Focused
+</h3>
+
+<p align="center">
+  📍 Istanbul, Turkey (from Morocco) <br/>
+  ✉️ <a href="mailto:hello@mohamedoulahguine.com">hello@mohamedoulahguine.com</a> <br/>
+  🌐 <a href="https://mohamedoulahguine.com" target="_blank">Portfolio Website</a>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/moulahguine/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/moulahguine/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/moulahguine" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/moulahguine/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Summary
+
+Frontend Developer with **3+ years of experience** building high-performance web applications.
+
+- ⚡ Built **10+ production-ready projects** (dashboards, SPAs, e-commerce)
+- 🎯 Focused on **performance, accessibility, and scalability**
+- 🧩 Strong in translating **Figma → clean, maintainable code**
+- 🤝 Experienced collaborating with designers & backend teams
+- 🔍 Passionate about solving UI/UX challenges and optimizing user experience
+
+Currently **open to Frontend roles & freelance collaborations**.
+
+---
+
+## 🧠 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,materialui,vite,jest,git,github,vscode" />
+</p>
+
+<div align="center">
+
+| Core Web | Frameworks | Styling | Tools |
+|----------|------------|--------|------|
+| HTML, CSS, JS, TS | React, Next.js, Redux | Tailwind, MUI, Sass | Git, Jest, Vite |
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Personal Portfolio</h3>
+      <a href="https://mohamedoulahguine.com">
+        <img src="porfolio.webp" width="300"/>
+      </a>
+      <p>Fast, responsive portfolio with optimized assets and smooth UI animations.</p>
+      <p>
+        <a href="https://github.com/moulahguine/my_portfolio-moulahguine">Repo</a> |
+        <a href="https://mohamedoulahguine.com">Live</a>
+      </p>
+    </td>
+
+    <td align="center">
+      <h3>Fashion Shop</h3>
+      <a href="https://fashionshop-site.vercel.app/">
+        <img src="ecommerce.webp" width="300"/>
+      </a>
+      <p>E-commerce app with dynamic UI, responsive layout, and performance tuning.</p>
+      <p>
+        <a href="https://github.com/moulahguine/fashion-shop">Repo</a> |
+        <a href="https://fashionshop-site.vercel.app/">Live</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <h3>Clinic Dashboard</h3>
+      <a href="https://clinic-dashboard.netlify.app/">
+        <img src="clinic.webp" width="300"/>
+      </a>
+      <p>Data-driven dashboard with responsive UI and accessibility improvements.</p>
+      <p>
+        <a href="https://github.com/moulahguine/clinic-dashboard">Repo</a> |
+        <a href="https://clinic-dashboard.netlify.app/">Live</a>
+      </p>
+    </td>
+
+    <td align="center">
+      <h3>Modern Landing Page</h3>
+      <a href="https://modernworldx.netlify.app/">
+        <img src="modern.webp" width="300"/>
+      </a>
+      <p>Clean, high-performance landing page with smooth scrolling and layout precision.</p>
+      <p>
+        <a href="https://github.com/moulahguine/modern_world">Repo</a> |
+        <a href="https://modernworldx.netlify.app/">Live</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  I'm always open to discussing new opportunities, collaborations, or interesting projects.
+</p>
+
+<p align="center">
+  <a href="mailto:hello@mohamedoulahguine.com">Send me an email</a>
+</p>
