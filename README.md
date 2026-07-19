@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Frontend Engineer • React & Next.js • Building Scalable and Maintainable UI Systems
+Frontend Engineer • Next.js & Typescript • Building Scalable and Maintainable UI Systems
 </h3>
 
 <p align="center">
