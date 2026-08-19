@@ -7,7 +7,7 @@ Frontend Engineer • Next.js & Typescript • Building Scalable and Maintainabl
 </h3>
 
 <p align="center">
-  📍 Istanbul, Turkey (from Morocco) | ✉️ <a href="mailto:hello@mohamedoulahguine.dev">hello@mohamedoulahguine.dev</a> | 🌐 <a href="https://mohamedoulahguine.com" target="_blank">Portfolio Website</a>
+  📍 Istanbul, Turkey (from Morocco) | ✉️ <a href="mailto:hello@mohamedoulahguine.dev">hello@mohamedoulahguine.dev</a> | 🌐 <a href="https://mohamedoulahguine.dev" target="_blank">Portfolio Website</a>
 </p>
 
 <div align="center">
