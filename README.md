@@ -4,6 +4,7 @@
       src="https://raw.githubusercontent.com/moulahguine/personal-portfolio/main/public/og-image.png"
       alt="Mohamed Oulahguine — Frontend Developer"
       width="100%"
+      height="70%"
     />
   </a>
 
@@ -94,7 +95,7 @@ I'm currently looking for a frontend role where I can build great products and g
 <div align="center">
   <p>Have a role, project, or collaboration in mind? I'd be happy to hear from you.</p>
 
-  <a href="mailto:hello@mohamedoulahguine.com">
+  <a href="mailto:mohamedoulahguine@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello%40mohamedoulahguine.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohamed" />
   </a>
   <a href="https://linkedin.com/in/moulahguine">
