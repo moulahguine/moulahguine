@@ -1,14 +1,6 @@
 <div align="center">
-  <a href="https://mohamedoulahguine.dev">
-    <img
-      src="https://raw.githubusercontent.com/moulahguine/personal-portfolio/main/public/og-image.png"
-      alt="Mohamed Oulahguine — Frontend Developer"
-      width="100%"
-      height="70%"
-    />
-  </a>
 
-  <h1>Hi, I'm Mohamed Oulahguine 👋</h1>
+  <h1>Hi, I'm Mohamed Oulahguine</h1>
 
   <p>
     <strong>Frontend Developer</strong> building accessible, performant, and well-crafted web experiences with React, Next.js, and TypeScript.
