@@ -90,8 +90,7 @@ I'm currently looking for a frontend role where I can build great products and g
   <a href="mailto:mohamedoulahguine@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohamedoulahguine@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohamed" />
   </a>
-  <a href="https://linkedin.com/in/moulahguine">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://linkedin.com/in/moulahguine">Connect on LinkedIn
   </a>
   <a href="https://bsky.app/profile/mohamedoulahguine.dev">
     <img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Follow on Bluesky" />
