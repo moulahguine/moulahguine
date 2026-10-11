@@ -22,7 +22,7 @@ I'm currently looking for a frontend role where I can build great products and g
 
 ## Skills
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML" /><br /><strong>HTML</strong></td>
     <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/css/663399" width="42" height="42" alt="CSS" /><br /><strong>CSS</strong></td>
