@@ -3,14 +3,7 @@
   <h1>Hi, I'm Mohamed Oulahguine</h1>
 
   <p>
-    <strong>Frontend Developer</strong> building accessible, performant, and well-crafted web experiences with React, Next.js, and TypeScript.
-  </p>
-
-  <p>
-    <a href="https://mohamedoulahguine.dev">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FFE023?style=for-the-badge&logo=googlechrome&logoColor=1A1A1C" alt="Visit my portfolio" />
-    </a>
-  </p>
+    <strong>Frontend Developer</strong> Focused on scalable frontend systems, performance, and UI architecture
 
   <p>Istanbul, Türkiye &nbsp;•&nbsp; From Morocco &nbsp;•&nbsp; Open to frontend opportunities</p>
 </div>
