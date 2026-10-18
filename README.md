@@ -8,13 +8,9 @@
   <p>Istanbul, Türkiye &nbsp;•&nbsp; From Morocco &nbsp;•&nbsp; Open to frontend opportunities</p>
 </div>
 
----
-
 ## About Me
 
 I'm a creative software developer with 5+ years of experience, mainly focused on frontend development. I enjoy solving problems and building thoughtful interfaces that make products easier and more enjoyable to use. I pay attention to the small details that can make a difference in how an interface feels and works.
-
----
 
 ## Skills
 
@@ -68,8 +64,6 @@ I'm a creative software developer with 5+ years of experience, mainly focused on
     <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="42" height="42" alt="Netlify" /><br /><strong>Netlify</strong></td>
   </tr>
 </table>
-
----
 
 ## Contact
 
