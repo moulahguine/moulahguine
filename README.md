@@ -12,11 +12,7 @@
 
 ## About Me
 
-I'm a creative software developer with 5+ years of experience, focused mainly on frontend development. I enjoy solving meaningful problems and building thoughtful interfaces that feel clear, reliable, and easy to use.
-
-Originally from Morocco, I now live in Istanbul, Türkiye, where I'm pursuing a Bachelor's degree in Software Engineering. I care about accessible experiences, maintainable code, responsive design, web performance, and the small details that make digital products feel right.
-
-I'm currently looking for a frontend role where I can build great products and grow with a strong team. Beyond coding, I enjoy solving problems, reading, writing, learning languages, and building a developer community for students in Türkiye.
+I'm a creative software developer with 5+ years of experience, mainly focused on frontend development. I enjoy solving problems and building thoughtful interfaces that make products easier and more enjoyable to use. I pay attention to the small details that can make a difference in how an interface feels and works.
 
 ---
 
